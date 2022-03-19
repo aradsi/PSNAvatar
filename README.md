@@ -19,4 +19,4 @@ Now You Can Use PS4 Avatar Tool By Lapy To change it to avatar, and use it on Ps
 
 In files Section There Are Some Ready PSN Avatar Images You Can Use Them, If Your Avatar is not available! Get the avatar using this tutorial.
 
-By @JimmyRockstar3 ( Twitter )
+By @imaradsi ( Twitter )
