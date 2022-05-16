@@ -1,7 +1,9 @@
 # PSNAvatar
 Well, In this tutorial I will show you, how you can get PSN Original Avatar Photos HQ!
 
-0.Go to store.playstation.com/ and Create PSN 1.Create A Dummy PSN Account And Choose The Avatar You Want! Then Sign Out!
+0.Go to store.playstation.com/ and Create PSN
+
+1.Create A Dummy PSN Account And Choose The Avatar You Want! Then Sign Out!
 
 2.I recommand to Use Chrome And go to store.playstation.com/ then Click On Sign In!
 
