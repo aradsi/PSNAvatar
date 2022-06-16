@@ -21,7 +21,9 @@ The Images are extracted from Sony servers..
 
 7.Find the selected avatar logo image! :)
 
-Now You Can Use PS4 Avatar Tool By Lapy To change it to avatar, and use it on Ps4
+8.Download the image
+
+Now You Can Use PS4 Avatar Tool By Lapy To change it to avatar, and use it on Ps4.
 
 In files Section There Are Some Ready PSN Avatar Images You Can Use Them, If Your Avatar is not available! Get the avatar using this tutorial.
 
@@ -30,5 +32,7 @@ Lapy Avatar : https://mega.nz/file/zs5GUCjT#BGEh3sAYpyFwxFM6dXVYS2j1jTwlcb2y70Xe
 If you get error while using app of Lapy, Install Direct X9c 
 
 DirectX 9.0c Download Link : https://directx-9-0c.en.lo4d.com/windows
+
+Video Tutorial By Echo Strech :https://www.youtube.com/watch?v=k7iifkNcBuY
 
 By @imaradsi ( Twitter )
