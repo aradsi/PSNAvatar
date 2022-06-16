@@ -1,5 +1,5 @@
 # PSNAvatar
-Well, In this tutorial I will show you, how you can get PSN Original Avatar Photos, Sneaking into PSN servers.
+Well, In this tutorial I will show you, how you can get PSN Original Avatar Photos, By Sneaking into PSN servers.
 
 Need PSN Account
 
