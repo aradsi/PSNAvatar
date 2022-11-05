@@ -33,6 +33,5 @@ If you get error while using app of Lapy, Install Direct X9c
 
 DirectX 9.0c Download Link : https://directx-9-0c.en.lo4d.com/windows
 
-Video Tutorial By Echo Strech :https://www.youtube.com/watch?v=k7iifkNcBuY
 
 By @imaradsi ( Twitter )
