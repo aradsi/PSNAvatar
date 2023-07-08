@@ -1,11 +1,12 @@
 # PSNAvatar
-Well, In this tutorial I will show you, how you can get PSN Original Avatar Photos, By Sneaking into PSN servers.
 
-Need PSN Account
+In this tutorial I will show you, how you can get PSN Original Avatar Pictures with some tricks.
 
-The Images are extracted from Sony servers..
+PSN Account Needed
 
-0.Go to store.playstation.com/ and Create PSN
+The Images are from Sony servers..
+
+0.Go to store.playstation.com/ and Create PSN Account
 
 1.Create A Dummy PSN Account And Choose The Avatar You Want! Then Sign Out
 
@@ -19,11 +20,11 @@ The Images are extracted from Sony servers..
 
 6.Paste it in notepad
 
-7.Find the selected avatar logo image! :)
+7.Find the selected avatar image
 
 8.Download the image
 
-Now You Can Use PS4 Avatar Tool By Lapy To change it to avatar, and use it on Ps4.
+Now You Can Use PS4 Avatar Tool By Lapy To change it to avatar, and use it on PlayStation
 
 In files Section There Are Some Ready PSN Avatar Images You Can Use Them, If Your Avatar is not available! Get the avatar using this tutorial.
 
@@ -33,5 +34,6 @@ If you get error while using app of Lapy, Install Direct X9c
 
 DirectX 9.0c Download Link : https://directx-9-0c.en.lo4d.com/windows
 
-
 By @imaradsi ( Twitter )
+
+Will be updated.
